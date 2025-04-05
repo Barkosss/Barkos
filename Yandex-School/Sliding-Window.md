@@ -61,3 +61,8 @@ print(findMaxAverage([1, 12, -5, -6, 50, 3], 4))
 - Первым в голову приходит наивное решение со сложностью O(n^2) или даже O(2^n)
 
 Метод скользящего окна позволяет улучшить вычислительную сложность до линейной, а по памяти — до константной.
+
+# Задачи для тренировки:
+1. [239. Sliding Window Maximum | HARD](https://leetcode.com/problems/sliding-window-maximum/description/)
+2. [480. Sliding Window Median | HARD](https://leetcode.com/problems/sliding-window-median/description/)
+3. [76. Minimum Window Substring | HARD](https://leetcode.com/problems/minimum-window-substring/description/)
