@@ -35,7 +35,7 @@ print(findMaxAverage([1, 12, -5, -6, 50, 3], 4))
 ## Скользим
 Чтобы переиспользовать рассчитанную для предыдущего подмассива сумму, достаточно вычесть элемент выпадающий из окна и добавить новый, попавший в окно.
 
-https://wcademy.ru/static/f1ba248cc7280856b60468bb8d195fcd/fa5c1/sliding-window.png
+![][https://wcademy.ru/static/f1ba248cc7280856b60468bb8d195fcd/fa5c1/sliding-window.png]
 
 ```python
 import sys
